@@ -1,3 +1,3 @@
-# seminarios-de-lenguajes-de-programacion
+# programming-languages-seminars
 
-Third year Programming Languages seminars
+Third year.
